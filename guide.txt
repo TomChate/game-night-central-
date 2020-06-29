@@ -1,0 +1,18 @@
+--Game Night Central--
+
+This documentation describes the magic behind game night central and can sort of be used for learning about the program.
+
+--How to Start --
+Use visual studio code!
+
+1. Run npm install in the terminal
+2. Run npm start
+3. Go to localhost:3000/ in your browser 
+4. You should have the website (woo!)
+
+
+--External sources-- 
+The site is built on express and handlebars, using a router to pass through data to the front-end.
+
+Forms, buttons etc use https://materializecss.com/
+
